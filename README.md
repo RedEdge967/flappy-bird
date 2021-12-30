@@ -22,5 +22,6 @@
 ## Preview
 ![Capture61](https://user-images.githubusercontent.com/91379432/147745281-d04832db-31a9-4721-915d-7a8552a65115.PNG)
 ---
-## Can I Contribute?
+## Can I [Contribute?](https://github.com/RedEdge967/flappy-bird/blob/master/CONTRIBUTING.md)
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
+---
