@@ -44,3 +44,9 @@ git@github.com:RedEdge967/flappy-bird.git
 gh repo clone RedEdge967/flappy-bird
 ```
 ---
+## Known Issues
+1. When enter pressed to restart, it doesn't restart
+    - ## Answer
+       - Try refreshing the site
+
+> If you played this game and loved it, show your 💕 by 🌟 this repo and don't forget to fork this and make your own flappy bird game with more advanced features and levels
