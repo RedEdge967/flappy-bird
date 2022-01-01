@@ -5,7 +5,7 @@
 </p>
 
 ---
-### 🔗 Link: https://reedge967.github.io/flappy-bird/
+### 🔗 Link: https://rededge967.github.io/flappy-bird/
 ---
 ## Needed
 - A device with a Keyboad inserted (computers or laptops)
