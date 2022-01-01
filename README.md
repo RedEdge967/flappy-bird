@@ -19,6 +19,11 @@
 - Extract the downloaded folder
 - Run `index.html` file in your browser
 ---
+## Controls
+- Press `Enter` to start the game
+- Press `Up` arrow key to fly
+- Try not to touch those strings
+---
 ## Preview
 ![Capture61](https://user-images.githubusercontent.com/91379432/147745281-d04832db-31a9-4721-915d-7a8552a65115.PNG)
 ---
