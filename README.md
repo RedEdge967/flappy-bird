@@ -13,7 +13,7 @@
 ---
 ## How to Run?
 ### Running `online`
-- Go to https://reedge967.github.io/flappy-bird/
+- Go to https://rededge967.github.io/flappy-bird/
 ### Running `offline`
 - First download the releases in [here](https://github.com/RedEdge967/flappy-bird/releases)
 - Extract the downloaded folder
@@ -51,7 +51,7 @@ gh repo clone RedEdge967/flappy-bird
 ---
 ## Known Issues
 1. When enter pressed to restart, it doesn't restart
-    - ## Answer
+    - ### Answer
        - Try refreshing the site
 
 > If you played this game and loved it, show your 💕 by 🌟 this repo and don't forget to fork this and make your own flappy bird game with more advanced features and levels
